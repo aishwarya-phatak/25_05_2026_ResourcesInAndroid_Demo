@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">25_05_2026_ResourcesInAndroid_Demo</string>
+    <string name="welcome_to_bitcode">Welcome To Bitcode!</string>
+    <string name="welcome_android">Welcome To Android</string>
+    <string name="welcome_image">welcome image</string>
+
+    <string-array name="students">
+        <item>Avni</item>
+        <item>Tanvi</item>
+        <item>Tanishka</item>
+        <item>Suhani</item>
+        <item>Tanushree</item>
+    </string-array>
+</resources>
